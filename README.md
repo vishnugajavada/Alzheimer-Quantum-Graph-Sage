@@ -14,9 +14,7 @@
 
 ---
 
-**M.Tech Capstone Project — Vellore Institute of Technology (VIT), Vellore**  
-**Student ID:** 21MIS0267 | **Course:** SWE1904, Winter Semester 2025–2026  
-**Supervisor:** Dr. Vanmathi C (Professor Grade 1, SCORE/DSSE) | **Co-author:** Mangayarkarasi R
+
 
 ---
 
@@ -188,25 +186,11 @@ Training prints loss and accuracy every 10 epochs. Class imbalance is handled vi
 
 ---
 
-## Dataset
 
-**OASIS (Open Access Series of Imaging Studies)**
-- Publicly available brain MRI dataset
-- Download: [https://www.oasis-brains.org](https://www.oasis-brains.org)
-- Place in your Google Drive and update the dataset path in the notebook
 
 ---
 
-## Academic Info
 
-| Field | Detail |
-|---|---|
-| Course | SWE1904 Capstone Project |
-| Semester | Winter 2025–2026 |
-| Institution | Vellore Institute of Technology, Vellore |
-| Supervisor | Dr. Vanmathi C |
-| Co-author | Mangayarkarasi R |
-| Student ID | 21MIS0267 |
 
 ---
 
