@@ -176,13 +176,7 @@ Training prints loss and accuracy every 10 epochs. Class imbalance is handled vi
 
 ---
 
-## File Structure
 
-```
-├── Alzheimer_SkullStrip.ipynb    # Full pipeline — preprocessing to evaluation
-├── architecture.png              # Pipeline architecture diagram
-└── README.md
-```
 
 ---
 
