@@ -174,3 +174,12 @@ Training prints loss and accuracy every 10 epochs. Class imbalance is handled vi
 The Quantum Feature Extractor uses an 8-qubit variational circuit trained end-to-end with the GNN via backpropagation. It functions as a trainable preprocessing block — not a standalone classifier. The GATConv and SAGEConv layers drive most of the classification performance.
 
 This is an accurate characterization of where hybrid quantum-classical models are right now. The quantum component is a differentiable feature transformer integrated into a classical deep learning system. The goal was a working hybrid pipeline — and it works.
+
+
+## 👤 Author
+
+**Gajavada Vishnu**
+M.Tech Integrated Software Engineering — VIT Vellore (2021–2026)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/vishnugajavada)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishnu-gajavada-380631279/)
