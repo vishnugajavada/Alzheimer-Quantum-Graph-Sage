@@ -24,25 +24,6 @@ This project builds a hybrid quantum-classical deep learning pipeline that class
 
 The pipeline achieves **~86% accuracy** and **~0.96 ROC-AUC** on the 4-class task.
 
----
-
-## Pipeline Architecture
-
-The full pipeline has six stages:
-
-```
-MRI Brain Scan
-      ↓
-Skull Stripping           ← Otsu thresholding + morphological ops
-      ↓
-Graph Construction        ← 8×8 patches → 64 nodes, 8 features/node
-      ↓
-Quantum Feature Extractor ← 8-qubit PennyLane circuit, 4 layers
-      ↓
-Hybrid GNN                ← 4-head GATConv → 2× SAGEConv → mean+max pool
-      ↓
-MLP Classifier            ← Softmax → 4-class output
-```
 
 ---
 
