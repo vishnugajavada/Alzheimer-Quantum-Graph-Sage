@@ -161,6 +161,7 @@ The Quantum Feature Extractor uses an 8-qubit variational circuit trained end-to
 
 This is an accurate characterization of where hybrid quantum-classical models are right now. The quantum component is a differentiable feature transformer integrated into a classical deep learning system. The goal was a working hybrid pipeline — and it works.
 
+---
 
 ## 👤 Author
 
