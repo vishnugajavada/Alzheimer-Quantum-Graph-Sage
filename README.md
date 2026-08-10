@@ -154,21 +154,7 @@ Training prints loss and accuracy every 10 epochs. Class imbalance is handled vi
    ```
 5. Run all cells top to bottom — preprocessing → graph construction → training → evaluation
 6. Training logs every 10 epochs. Full run takes **30–60 minutes** on a Colab T4 GPU.
-
 ---
-
-
-
----
-
-
-
----
-
-
-
----
-
 ## Note on the Quantum Component
 
 The Quantum Feature Extractor uses an 8-qubit variational circuit trained end-to-end with the GNN via backpropagation. It functions as a trainable preprocessing block — not a standalone classifier. The GATConv and SAGEConv layers drive most of the classification performance.
